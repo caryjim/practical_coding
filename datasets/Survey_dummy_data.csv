@@ -1,0 +1,101 @@
+Workplace ,Units,Q1,Q2,Q3,Q4,Q5
+Site,Workplace_Unit,Timely,Courteous,Helpful,Resolved,Environment 
+A_Place,SA,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Not applicable/Don't know
+A_Place,JS,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+A_Place,NK,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+A_Place,GH,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+A_Place,SW,Agree,Agree,Agree,Agree,Agree
+A_Place,MV,Agree,Agree,Agree,Agree,Agree
+A_Place,RC,Disagree,Agree,Strongly agree,Strongly agree,Agree
+A_Place,MR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+A_Place,RM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+A_Place,JP,Agree,Agree,Agree,Agree,Not applicable/Don't know
+A_Place,LP,Disagree,Agree,Strongly agree,Strongly agree,Not applicable/Don't know
+A_Place,PR,Agree,Agree,Agree,Agree,Agree
+A_Place,DM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+A_Place,DW,Agree,Strongly agree,Strongly agree,Strongly agree,Not applicable/Don't know
+B_Place,SA,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,JS,Agree,Agree,Agree,Agree,Agree
+B_Place,NK,Agree,Agree,Agree,Agree,Agree
+B_Place,GH,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,SW,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+B_Place,MV,Agree,Agree,Agree,Agree,Agree
+B_Place,RC,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,MR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,RM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,JP,Agree,Agree,Agree,Agree,Agree
+B_Place,LP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,PR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,DM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,DW,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+B_Place,SA,Agree,Agree,Agree,Agree,Agree
+B_Place,JS,Strongly agree,Strongly agree,Agree,Agree,Strongly agree
+B_Place,NK,Disagree,Strongly agree,Strongly agree,Strongly agree,Not applicable/Don't know
+B_Place,GH,Agree,Agree,Agree,Agree,Disagree
+B_Place,SW,Agree,Agree,Agree,Agree,Agree
+B_Place,MV,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,RC,Disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,MR,Disagree,Agree,Agree,Agree,Agree
+C_Place,RM,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,JP,Agree,Strongly agree,Strongly agree,Strongly agree,Agree
+C_Place,LP,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,PR,Agree,Agree,Agree,Agree,Agree
+C_Place,DM,Not applicable/Don't know,Agree,Agree,Agree,Disagree
+C_Place,DW,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,SA,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,JS,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,NK,Agree,Agree,Agree,Agree,Agree
+C_Place,GH,Agree,Agree,Agree,Agree,Agree
+C_Place,SW,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,MV,Agree,Agree,Agree,Not applicable/Don't know,Agree
+C_Place,RC,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,MR,Disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,RM,Agree,Agree,Agree,Agree,Agree
+C_Place,JP,Agree,Agree,Agree,Agree,Agree
+C_Place,LP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,PR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,DM,Agree,Agree,Strongly agree,Strongly agree,Agree
+C_Place,DW,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree
+C_Place,SA,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+C_Place,JS,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,NK,Disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+C_Place,GH,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,SW,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree
+D_Place,MV,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,RC,Agree,Agree,Agree,Strongly agree,Disagree
+D_Place,MR,Agree,Agree,Agree,Agree,Agree
+D_Place,RM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree
+D_Place,JP,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+D_Place,LP,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+D_Place,PR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,DM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,DW,Disagree,Disagree,Disagree,Disagree,Disagree
+D_Place,SA,Agree,Agree,Agree,Agree,Disagree
+D_Place,JS,Agree,Agree,Disagree,Disagree,Disagree
+D_Place,NK,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,GH,Strongly agree,,Strongly agree,Strongly agree,Strongly agree
+D_Place,SW,Strongly agree,Agree,Agree,Agree,Disagree
+D_Place,MV,Strongly agree,Agree,Agree,Agree,Strongly disagree
+D_Place,RC,Agree,Agree,Agree,Agree,Disagree
+D_Place,MR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree
+D_Place,RM,Agree,Agree,Agree,Agree,Agree
+D_Place,JP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,LP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,PR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Not applicable/Don't know
+D_Place,DM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+D_Place,DW,Disagree,Agree,Agree,Agree,Disagree
+D_Place,SA,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree
+D_Place,JS,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+D_Place,NK,Agree,Strongly agree,Strongly agree,Agree,Not applicable/Don't know
+E_Place,GH,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,SW,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,MV,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+E_Place,RC,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,MR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,RM,Agree,Agree,Agree,Agree,Agree
+E_Place,JP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Disagree
+E_Place,LP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,PR,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,DM,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,DW,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+E_Place,JP,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
